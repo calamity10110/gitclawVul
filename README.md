@@ -52,4 +52,6 @@ Edit `.github/workflows/agent.yml` to customize:
 
 ## Acknowledgments
 
-Built on top of [pi-mono](https://github.com/badlogic/pi-mono) by [Mario Zechner](https://github.com/badlogic). Thanks Mario!
+Built on top of [pi-mono](https://github.com/badlogic/pi-mono) by [Mario Zechner](https://github.com/badlogic).
+
+Thanks to [ymichael](https://github.com/ymichael) for nerdsniping me with the idea of an agent that runs in GitHub Actions.
